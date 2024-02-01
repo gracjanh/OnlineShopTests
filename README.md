@@ -22,4 +22,5 @@ Test scenarios:
 5. Log in with incorrect credentials
 
 Result of tests:
+
 ![image](https://github.com/gracjanh/OnlineShopTests/assets/74767350/70bf20ad-58cf-4a70-a0bf-6164b7539cec)
