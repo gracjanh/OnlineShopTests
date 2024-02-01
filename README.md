@@ -1,4 +1,4 @@
-Testing fake online shop using Cypress
+Testing online shop application using Cypress.
 
 https://www.saucedemo.com/
 ![image](https://github.com/gracjanh/OnlineShopTests/assets/74767350/8459d168-9e90-43ee-bab5-e2d564c00966)
